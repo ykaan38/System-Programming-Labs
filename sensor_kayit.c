@@ -92,4 +92,4 @@ int main(int argc, char *argv[]) {
 
     free(okunanVeriler);
     return 0;
-} bu olabilri mi
+}
